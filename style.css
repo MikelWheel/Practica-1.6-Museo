@@ -1,0 +1,31 @@
+header{
+    background-color: yellow;
+    text-align: center;
+}
+nav{
+    background-color: lightgreen;
+    text-align: center;
+}
+section.primera{
+    background-color: orange;
+
+}
+div.articulos{
+
+    display: inline-block;
+  
+}
+section.segunda{
+    background-color: orange;
+
+}
+
+footer{
+    background-color: blue;
+    text-align: center;
+    
+    
+}
+span.amarillo{
+    background-color: yellow;
+}
